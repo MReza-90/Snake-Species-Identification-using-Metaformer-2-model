@@ -1,2 +1,2 @@
 # Snake-Species-Identification-using-Metaformer-2-model
-Utilizing Metaformer-2 model for snake species Identification (SnakeCLEF 2023)
+This repository has been dedicated to my research project, where the capabilities of the Metaformer-2 model are harnessed to address the challenge of snake species identification as part of the SnakeCLEF 2023 competition. The aim of this project is to contribute to the field of herpetology and biodiversity conservation by providing a tool for the identification of snake species based on images, which is accurate and efficient.
